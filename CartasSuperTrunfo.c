@@ -42,7 +42,7 @@ printf("Digite uma letra de (a-h)");
     scanf("%f",&pib1);
 
     printf("Há quantos pontos turiscos ");
-    scaf("%d", pontosTuristicos1);
+    scanf("%d", pontosTuristicos1);
 
     //entrada de dados para a segunda carta
     
@@ -65,7 +65,7 @@ printf("Digite uma letra de (a-h)");
     scanf("%f",&pib2);
 
     printf("Há quantos pontos turiscos ");
-    scaf("%d", pontosTuristicos2);
+    scanf("%d", pontosTuristicos2);
 
 
 
