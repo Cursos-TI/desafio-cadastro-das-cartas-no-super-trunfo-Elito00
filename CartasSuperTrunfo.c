@@ -15,7 +15,7 @@ int main() {
     // Declaração das variáveis da segunda  carta
     char estado2;
     char codigo2[4];
-    char nomeCidade2[50];
+    char cidade2[50];
     int populacao2;
     float area2;
     float pib2;
@@ -56,7 +56,7 @@ printf("Digite uma letra de (a-h)");
     scanf("%s", cidade2);
 
     printf("digite a populacao");
-    scanf("%d", &populacao2;
+    scanf("%d", &populacao2);
 
     printf("Digte o tamanho da area (km2)");
     scanf("%f", &area2);
