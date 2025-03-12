@@ -82,6 +82,7 @@ printf("Digite uma letra de (a-h)");
    printf("Número de Pontos Turísticos: %d\n", pontosTuristicos1);
 
    // Exibição dos dados da segunda carta
+   
    printf("\nCarta 2:\n");
    printf("Estado: %c\n", estado2);
    printf("Código: %s\n", codigo2);
